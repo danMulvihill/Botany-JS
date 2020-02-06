@@ -4,12 +4,51 @@
 // A: Asterids  0:Basal 1: Lamiids  3: Campanids
 
 const eudicots = [ 
-    {B:[]}, 
-    {C:[]}, 
-    {R0:[]}, 
-    {R1:[]}, 
-    {R2:[]}, 
-    {A0:[]}, 
-    {A1:[]}, 
-    {A2:[]} 
+    {B:[
+        {Buxales: [""]},
+        {Protales: ["", 'Nelumbon-']},
+        {Rannunculales: []},
+        {Gunnerales: []}
+    ]}, 
+    {C:[
+        {Dillaneales: []},
+        {Caryophylles: []},
+        {Santales: []}
+    ]}, 
+    {R0:[
+        {Saxifragales: []},
+        {Vitales: []}
+    ]}, 
+    {R1:[
+        {Celastrales:[]},
+        {Cucurbitales:[]},
+        {Fabales:[]},
+        {Fagales:[]},
+        {Malpighiales:[]},
+        {Oxalidales:[]},
+        {Rosales:[]}
+    ]}, 
+    {R2:[
+        {Geraniales:[]},
+        {Myrtales:[]},
+        {Brassicales:[]},
+        {Malvales:[]},
+        {Sapindales:[]}
+    ]}, 
+    {A0:[
+        {Cornales:[]},
+        {Ericales:[]}
+    ]}, 
+    {A1:[
+        {Gariyales:[]},
+        {Gentianales:[]},
+        {Lamiales:[]},
+        {Solanales:[]}
+    ]}, 
+    {A2:[
+        {Apiales:[]},
+        {Aquilfoliales:[]},
+        {Asterales:[]},
+        {Dipsales:[]}
+    ]} 
 ]
