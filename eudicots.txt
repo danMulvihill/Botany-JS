@@ -1,0 +1,40 @@
+// dicots = [ {B:[]}, {C:[]}, {R0:[]}, {R1:[]}, {R2:[]}, {A0:[]}, {A1:[]}, {A2:[]} ]
+
+const dicots = [
+
+{B:     [{Buxales:	[""]},
+	{Protales:	["","Nelumbon-", "Platan-"]},
+	{Ranunculales:	["","Berberid-", "Lardizabal-", "Menisperm=", "Papaver-", "Ranuncul-"]},
+	{Gunnerales:	[""]}]
+},{C:	[{Dilleneales:	[""]},
+	{Caryophyllales:["","Aizo-","Amaranth-","Cact-","Droser-","Frankeni-","Nepenth-","Nyctagin-","Polygon-","Portulac-","Plumbagin-","Simmondsi-","Tamaric-"]},
+	{Santales:	["","Loranth-"]}]
+},{
+ R0:	[{Saxifragales:	["","Crasul-", "Grossulari-", "Halorag-", "Hamamelid-"]},
+	{Vitales:	[""]}]
+},{R1:	[{Celastrales:	["","Parnassi-"]},
+	{Cucurbitales:	["","Begoni-", "Datisc-"]},
+	{Fabales:	["","Polygal-"]},
+	{Fagales:	["","Betul-", "Casuarin-", "Jugland-", "Myric-", "Nothofag-"]}.
+	{Malpighiales:	["","Clusi-", "Euphorbi-", "Erythroxyl-", "Lin-", "Passiflor-", "Rhizophor-", "Rafflesi-", "Salic-", "Viol-"]},
+	{Oxalidales:	["","Cephalot-", "Cunoni-"]},
+	{Rosales:	["","Cannab-", "Elaeagn-", "Mor-", "Rhamn-", "Ulm-", "Urtic-"]},
+{R2:	{Geraniales:	["","Melanthi-"]},
+	{Myrtales:	["Combret-", "Lythr-", "Melastomat-", "Onagr-"]},
+	{Brassicales:	["Caric-", "Cappar=", "Moring=", "Tropaeol="]},
+	{Malvales:	["Bix-", "Cist="]},
+	{Sapindales:	["Anacardi-", "Burser=", "Meli=", "Rut=", "Simaroub="]}]
+},{
+ A0:	Cornales	Hydrange
+	Ericales	Actinidi, Balsamin, Boragin, Clethr, Eben, Fouquieri, Lecythid, Myrsin, Polemoni, Primul, Sarraceni, Sapot, Styrac-, The-
+{A1:	Gariyales	[]
+	Gentianales	Apocyn-, Logani-, Rubi-,
+	Lamiales	Acanth-, Bignoni=, Gesneri=, Lentibulari-, Ole-, Plantagin-,  Scrophulari-, Verben-,
+	Solanales	Convolvul-
+{A2:	Apiales		Arali-, Pittospor-
+	Aquilfoliales	[]
+	Asterales	Campanul-, Goodeni-, Menyanth-
+	Dipsalales	Adox-, Caprifoli-, Valerian-
+}
+
+]
